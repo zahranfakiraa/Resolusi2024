@@ -2,6 +2,7 @@ Resolusi Perkuliahan 2024, ingin bisa tambah skills:
 - Java
 - React
 - Python
-- Konsep struktur data
 - .NET
+- PHP
+
 
