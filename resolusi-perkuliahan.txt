@@ -4,5 +4,9 @@ Resolusi Perkuliahan 2024, ingin bisa tambah skills:
 - Python
 - .NET
 - PHP
+- C
+- C++
+- Golang
+- C#
 
 
